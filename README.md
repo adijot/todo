@@ -7,3 +7,4 @@ npm install --global typescript@3.5.1
 - node.js
 - git
 - typescript
+- Inquirer.js
